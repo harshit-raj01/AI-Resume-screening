@@ -5,7 +5,7 @@ This project is a simple AI-based Resume Screening system that compares a resume
 ---
 
 ## 🌐 Live Demo
-🔗 https://harshit-raj01.github.io/ai-resume-screening/
+🔗 https://harshit-raj01.github.io/AI-Resume-screening/
 
 ---
 
